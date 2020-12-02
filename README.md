@@ -1,2 +1,2 @@
 # navjotsinghminhas.com
-My personal protfolio.
+My personal portfolio.
